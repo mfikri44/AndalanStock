@@ -18,7 +18,7 @@ class TransactionTable extends Migration
             $table->string('reference_no');
             $table->integer('price');
             $table->integer('qty');
-            $table->integer('payment_ammount');
+            $table->integer('payment_amount');
             $table->integer('product_id');
             $table->timestamps();
         });
