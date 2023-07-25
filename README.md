@@ -44,6 +44,6 @@ lakukan migrate
 
 -   API Transaksi
 ```bash
-    http://localhost:8000/api/transaksi
+    http://localhost:8000/api/transaction
 ```
 
